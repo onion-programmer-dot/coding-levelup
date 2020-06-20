@@ -4,6 +4,7 @@ package coding.desingpattern.singaltion;
  * 
  * @author alok.kumar
  *
+ * Singaltion with Eagar initilization
  */
 public class SingletonClassEagarInitilization {
 	
